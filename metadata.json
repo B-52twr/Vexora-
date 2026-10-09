@@ -1,0 +1,8 @@
+{
+  "name": "Remix ViewPlus | ڤيو بلس",
+  "description": "🛍️ متجرك الإلكتروني لكل ما تحتاجه\n✨ منتجات مميزة | أسعار منافسة | خدمة موثوقة\n💳 طرق دفع متعددة\n📩 للطلب والاستفسار تواصل معنا\n🔥 عروض وتخفيضات مستمرة",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

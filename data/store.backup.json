@@ -1,0 +1,620 @@
+{
+  "products": [
+    {
+      "id": "netflix",
+      "title": "اشتراكات نتفلكس (Netflix) الرسمية",
+      "titleEn": "Netflix Official Subscriptions",
+      "subtitle": "اختر مدة اشتراكك - مشاهدة بلا حدود، متعة لا تنتهي.",
+      "description": "اشتراكات نتفلكس الرسمية المعتمدة بدقة Ultra HD و 4K مع مكتبة الأفلام والمسلسلات الحصرية كاملة.",
+      "category": "movies",
+      "brandColor": "#E50914",
+      "badgeText": "رسمي 100%",
+      "footerFeatures": [
+        "خصوصية وأمان تام",
+        "تحميل ومشاهدة بدون إنترنت",
+        "متوافق مع جميع الأجهزة",
+        "إلغاء الاشتراك في أي وقت"
+      ],
+      "plans": [
+        {
+          "duration": "1_month",
+          "label": "شهر",
+          "subLabel": "1 MONTH",
+          "price": 29,
+          "features": [
+            "جودة عالية HD",
+            "مشاهدة على جهاز واحد",
+            "مكتبة أفلام ومسلسلات",
+            "بدون إعلانات"
+          ]
+        },
+        {
+          "duration": "3_months",
+          "label": "ثلاث شهور",
+          "subLabel": "3 MONTHS",
+          "price": 79,
+          "originalPrice": 87,
+          "features": [
+            "جودة عالية Full HD",
+            "مشاهدة على جهازين",
+            "مكتبة أفلام ومسلسلات",
+            "بدون إعلانات"
+          ]
+        },
+        {
+          "duration": "6_months",
+          "label": "ست شهور",
+          "subLabel": "6 MONTHS",
+          "price": 139,
+          "originalPrice": 174,
+          "badge": "الأكثر شيوعاً",
+          "badgeColor": "red",
+          "isFeatured": true,
+          "features": [
+            "جودة عالية Full HD",
+            "مشاهدة على 3 أجهزة",
+            "مكتبة أفلام ومسلسلات",
+            "بدون إعلانات",
+            "تحميل للمشاهدة بدون إنترنت"
+          ]
+        },
+        {
+          "duration": "1_year",
+          "label": "سنة",
+          "subLabel": "12 MONTHS",
+          "price": 229,
+          "originalPrice": 348,
+          "features": [
+            "جودة عالية Ultra HD",
+            "مشاهدة على 4 أجهزة",
+            "مكتبة أفلام ومسلسلات",
+            "بدون إعلانات",
+            "تحميل للمشاهدة بدون إنترنت"
+          ]
+        },
+        {
+          "duration": "1_year_premium",
+          "label": "سنة مميزة",
+          "subLabel": "12 MONTHS PREMIUM",
+          "price": 279,
+          "originalPrice": 420,
+          "badge": "سنة مميزة 👑",
+          "badgeColor": "gold",
+          "features": [
+            "جودة عالية Ultra HD",
+            "مشاهدة على 4 أجهزة",
+            "مكتبة أفلام ومسلسلات",
+            "بدون إعلانات",
+            "تحميل بدون إنترنت",
+            "دعم فني مميز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shahid",
+      "title": "اشتراكات شاهد VIP (حكايات لا تنتهي)",
+      "titleEn": "Shahid VIP Official Plans",
+      "subtitle": "آلاف المسلسلات والأفلام، برامج حصرية، بث مباشر، كل ما تحب... وأكثر.",
+      "description": "اشتراكات منصة شاهد VIP الرسمية لأضخم الإنتاجات العربية وقنوات البث المباشر.",
+      "category": "movies",
+      "brandColor": "#10B981",
+      "badgeText": "بث مباشر وأفلام",
+      "footerFeatures": [
+        "دفع آمن 100%",
+        "متوافق مع جميع الأجهزة",
+        "تحميل ومشاهدة بدون إنترنت",
+        "ملفات شخصية مخصصة",
+        "دعم فني على مدار الساعة"
+      ],
+      "plans": [
+        {
+          "duration": "1_month",
+          "label": "شهر",
+          "subLabel": "مشاهدة مرنة لمدة شهر",
+          "price": 29,
+          "features": [
+            "مكتبة ضخمة من المسلسلات والأفلام",
+            "جودة HD",
+            "مشاهدة على جهاز واحد",
+            "بدون إعلانات"
+          ]
+        },
+        {
+          "duration": "3_months",
+          "label": "3 شهور",
+          "subLabel": "توفير أكثر، متعة مستمرة",
+          "price": 79,
+          "originalPrice": 87,
+          "features": [
+            "مكتبة ضخمة من المسلسلات والأفلام",
+            "جودة Full HD",
+            "مشاهدة على جهازين",
+            "بدون إعلانات"
+          ]
+        },
+        {
+          "duration": "6_months",
+          "label": "6 شهور",
+          "subLabel": "خيار رائع لعشاق المشاهدة",
+          "price": 149,
+          "originalPrice": 174,
+          "badge": "الأكثر إختياراً",
+          "badgeColor": "cyan",
+          "isFeatured": true,
+          "features": [
+            "مكتبة ضخمة من المسلسلات والأفلام",
+            "جودة Full HD",
+            "مشاهدة على 3 أجهزة",
+            "بدون إعلانات"
+          ]
+        },
+        {
+          "duration": "1_year",
+          "label": "سنة",
+          "subLabel": "أفضل قيمة، تجربة بلا حدود",
+          "price": 249,
+          "originalPrice": 348,
+          "badge": "أفضل قيمة 👑",
+          "badgeColor": "gold",
+          "features": [
+            "مكتبة ضخمة من المسلسلات والأفلام",
+            "جودة 4K UHD",
+            "مشاهدة على 4 أجهزة",
+            "بدون إعلانات"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "youtube",
+      "title": "اشتراك يوتيوب بريميوم الفردي (رسمي وسريع)",
+      "titleEn": "YouTube Premium Individual Official",
+      "subtitle": "مشاهدة بدون إعلانات • تشغيل في الخلفية • YouTube Music Premium • تفعيل فردي.",
+      "description": "تفعيل رسمي على حساب Google الشخصي الخاص بك بدون مشاركة كلمة المرور.",
+      "category": "audio",
+      "brandColor": "#FF0033",
+      "badgeText": "تفعيل فردي على إيميلك",
+      "footerFeatures": [
+        "بدون طلب كلمة المرور",
+        "يشمل تطبيق YouTube Music",
+        "تشغيل في الخلفية وعند قفل الشاشة",
+        "ضمان ذهبي كامل"
+      ],
+      "plans": [
+        {
+          "duration": "1_month",
+          "label": "شهر واحد",
+          "subLabel": "1 MONTH",
+          "price": 15,
+          "features": [
+            "تفعيل فردي على إيميلك الشخصي",
+            "بدون أي إعلانات نهائياً",
+            "تشغيل في الخلفية",
+            "يشمل YouTube Music Premium"
+          ]
+        },
+        {
+          "duration": "3_months",
+          "label": "3 أشهر",
+          "subLabel": "3 MONTHS",
+          "price": 39,
+          "originalPrice": 45,
+          "features": [
+            "تفعيل فردي رسمي ومضمون",
+            "مشاهدة وتنزيل بدون إنترنت",
+            "تشغيل في الخلفية",
+            "YouTube Music Premium"
+          ]
+        },
+        {
+          "duration": "6_months",
+          "label": "6 أشهر",
+          "subLabel": "6 MONTHS",
+          "price": 69,
+          "originalPrice": 90,
+          "badge": "الأكثر طلباً",
+          "badgeColor": "red",
+          "isFeatured": true,
+          "features": [
+            "تفعيل فردي رسمي ومستمر",
+            "تنزيل غير محدود للفيديوهات",
+            "تشغيل خلفية الشاشة",
+            "YouTube Music Premium",
+            "ضمان ذهبي"
+          ]
+        },
+        {
+          "duration": "1_year",
+          "label": "سنة كاملة",
+          "subLabel": "12 MONTHS",
+          "price": 129,
+          "originalPrice": 180,
+          "badge": "أعلى توفير 👑",
+          "badgeColor": "gold",
+          "features": [
+            "سنة كاملة مستمرة بدون انقطاع",
+            "تفعيل رسمي على حسابك الخاص",
+            "تنزيل أوفلاين وتشغيل بالخلفية",
+            "YouTube Music Premium كامل",
+            "دعم فني وضمان"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "osn",
+      "title": "اشتراكات OSN الرسمية (OSN Subscriptions)",
+      "titleEn": "Official OSN+ Subscriptions",
+      "subtitle": "الموطن الحصري لأضخم إنتاجات HBO العالمية ومسلسلات باراماونت بيكتشرز.",
+      "description": "عالم هوليوود المتكامل مع مسلسلات HBO الأصلية بجودة فائقة وصوت سينمائي.",
+      "category": "movies",
+      "brandColor": "#E11D48",
+      "badgeText": "أفلام ومسلسلات HBO",
+      "footerFeatures": [
+        "مكتبة HBO الحصرية بالكامل",
+        "جودة صوت محيطي Dolby Atmos",
+        "تحميل ومشاهدة بدون إنترنت",
+        "حساب رسمي ومحمي برمز PIN"
+      ],
+      "plans": [
+        {
+          "duration": "1_month",
+          "label": "شهر واحد",
+          "subLabel": "1 MONTH",
+          "price": 25,
+          "features": [
+            "مكتبة HBO الحصرية بالكامل",
+            "أحدث أفلام السينما العالمية",
+            "جودة بث فائقة مع صوت سينمائي",
+            "ملف خاص بك محمي برمز PIN"
+          ]
+        },
+        {
+          "duration": "3_months",
+          "label": "3 أشهر",
+          "subLabel": "3 MONTHS",
+          "price": 69,
+          "originalPrice": 75,
+          "features": [
+            "مكتبة HBO كاملة ومسلسلات باراماونت",
+            "عروض تزامنية مع أمريكا",
+            "تحميل للمشاهدة بدون إنترنت",
+            "ملف شخصي محمي برقم سري"
+          ]
+        },
+        {
+          "duration": "6_months",
+          "label": "6 أشهر",
+          "subLabel": "6 MONTHS",
+          "price": 115,
+          "originalPrice": 150,
+          "badge": "الأكثر إقبالاً",
+          "badgeColor": "red",
+          "isFeatured": true,
+          "features": [
+            "مكتبة HBO وباراماونت بالكامل",
+            "دقة 4K وصوت Dolby Atmos",
+            "تحميل غير محدود",
+            "ضمان ذهبي طوال المدة"
+          ]
+        },
+        {
+          "duration": "1_year",
+          "label": "سنة كاملة",
+          "subLabel": "12 MONTHS",
+          "price": 195,
+          "originalPrice": 300,
+          "badge": "باقة التوفير 👑",
+          "badgeColor": "gold",
+          "features": [
+            "سنة كاملة لمكتبة HBO العالمية",
+            "أحدث أفلام هوليوود والمسلسلات",
+            "مشاهدة بجودة 4K فائقة",
+            "ضمان ذهبي واستبدال فوري"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "discord",
+      "title": "ديسكورد نايترو قيمنق (Discord Nitro)",
+      "titleEn": "Discord Nitro Gaming + 2 Boosts",
+      "subtitle": "2 سيرفر بوست مجاناً + إيموجيات متحركة وبث 4K 60FPS ومشاركة ملفات 500MB.",
+      "description": "اشتراك ديسكورد نايترو الكامل المخصص للألعاب وصناع المحتوى والسيرفرات.",
+      "category": "gaming",
+      "brandColor": "#5865F2",
+      "badgeText": "يشمل 2 Server Boosts",
+      "footerFeatures": [
+        "روابط هدايا رسمية 100%",
+        "تفعيل فوري وآمن",
+        "بث ألعاب 4K 60FPS",
+        "رفع ملفات بحجم 500MB"
+      ],
+      "plans": [
+        {
+          "duration": "1_month",
+          "label": "شهر واحد",
+          "subLabel": "1 MONTH",
+          "price": 19,
+          "features": [
+            "2 سيرفر بوست مجاناً",
+            "إيموجيات وستيكرات متحركة",
+            "بث ألعاب 4K 60FPS",
+            "رفع ملفات حتى 500MB"
+          ]
+        },
+        {
+          "duration": "3_months",
+          "label": "3 أشهر",
+          "subLabel": "3 MONTHS",
+          "price": 49,
+          "originalPrice": 57,
+          "features": [
+            "2 سيرفر بوست مجاناً",
+            "شارة نايترو على بروفايلك",
+            "ألوان وبانر بروفايل مخصص",
+            "روابط هدايا رسمية 100%"
+          ]
+        },
+        {
+          "duration": "6_months",
+          "label": "6 أشهر",
+          "subLabel": "6 MONTHS",
+          "price": 89,
+          "originalPrice": 114,
+          "badge": "الأكثر طلباً",
+          "badgeColor": "cyan",
+          "isFeatured": true,
+          "features": [
+            "2 سيرفر بوست مجاناً",
+            "إيموجيات في كافة السيرفرات",
+            "بث شاشة خارق 4K",
+            "دعم فني وضمان رسمي"
+          ]
+        },
+        {
+          "duration": "1_year",
+          "label": "سنة كاملة",
+          "subLabel": "12 MONTHS",
+          "price": 169,
+          "originalPrice": 228,
+          "badge": "قيمة سنوية 👑",
+          "badgeColor": "gold",
+          "features": [
+            "سنة كاملة من مزايا النايترو",
+            "تعزيز مستمر لسيرفرك المفضل",
+            "روابط هدايا مضمونة وغير مسحوبة",
+            "دعم فني وضمان استبدال مباشر"
+          ]
+        }
+      ]
+    }
+  ],
+  "inventory": [
+    {
+      "id": "inv-nflx-6m-1",
+      "serviceId": "netflix",
+      "duration": "6_months",
+      "code": "NFLX-UHD-6M-8812-SECURE",
+      "pin": "4491",
+      "extraInfo": "الملف رقم [2] | رمز القفل PIN: 4491",
+      "isUsed": true,
+      "addedAt": "2026-10-08T13:28:52.338Z",
+      "usedAt": "2026-10-08T13:30:09.713Z",
+      "usedInOrderId": "VX-NET-718140"
+    },
+    {
+      "id": "inv-nflx-1y-1",
+      "serviceId": "netflix",
+      "duration": "1_year",
+      "code": "NFLX-UHD-1Y-7734-PRIME",
+      "pin": "8820",
+      "extraInfo": "الملف رقم [1] | رمز القفل PIN: 8820",
+      "isUsed": false,
+      "addedAt": "2026-10-08T13:28:52.339Z"
+    },
+    {
+      "id": "inv-shd-6m-1",
+      "serviceId": "shahid",
+      "duration": "6_months",
+      "code": "SHD-VIP-TV-9912-XA06",
+      "extraInfo": "قسيمة تفعيل رقمية رسمية - تدعم الشاشة بالكامل",
+      "isUsed": false,
+      "addedAt": "2026-10-08T13:28:52.339Z"
+    },
+    {
+      "id": "inv-yt-1y-1",
+      "serviceId": "youtube",
+      "duration": "1_year",
+      "code": "YTP-INDIV-INVITE-LINK-1Y-882",
+      "extraInfo": "ترقية سنوية رسمية كاملة لحسابك الشخصي مباشرة",
+      "isUsed": false,
+      "addedAt": "2026-10-08T13:28:52.339Z"
+    },
+    {
+      "id": "inv-osn-6m-1",
+      "serviceId": "osn",
+      "duration": "6_months",
+      "code": "OSN-PLUS-HBO-8819-M6",
+      "pin": "9012",
+      "extraInfo": "الملف رقم [3] | رمز القفل PIN: 9012",
+      "isUsed": false,
+      "addedAt": "2026-10-08T13:28:52.339Z"
+    },
+    {
+      "id": "inv-dsc-3m-1",
+      "serviceId": "discord",
+      "duration": "3_months",
+      "code": "https://discord.gift/3312bWq8812M3NITRO",
+      "extraInfo": "رابط هدية نايترو رسمي 3 أشهر",
+      "isUsed": false,
+      "addedAt": "2026-10-08T13:28:52.339Z"
+    }
+  ],
+  "orders": [
+    {
+      "orderId": "VX-SHA-B7CCD3",
+      "serviceId": "shahid",
+      "serviceTitle": "اشتراكات شاهد VIP (حكايات لا تنتهي)",
+      "duration": "6_months",
+      "planLabel": "6 شهور",
+      "planPrice": 149,
+      "currency": "SAR",
+      "customerName": "لؤاتلؤءاؤ",
+      "customerEmail": "tarktyrfdjykdyal3nzi@gmail.com",
+      "customerPhone": "+965 64578647",
+      "paymentMethod": "electronic_gateway",
+      "paymentBrand": "knet",
+      "status": "pending_payment",
+      "createdAt": "2026-10-09T15:44:32.756Z",
+      "updatedAt": "2026-10-09T15:44:32.756Z",
+      "clientIp": "127.0.0.1"
+    },
+    {
+      "orderId": "VX-NET-718140",
+      "serviceId": "netflix",
+      "serviceTitle": "اشتراكات نتفلكس (Netflix) الرسمية",
+      "duration": "6_months",
+      "planLabel": "ست شهور",
+      "planPrice": 139,
+      "currency": "SAR",
+      "customerName": "فهد العتيبي",
+      "customerEmail": "fahad@test.com",
+      "customerPhone": "0551234567",
+      "paymentMethod": "electronic_gateway",
+      "paymentBrand": "all",
+      "status": "paid",
+      "createdAt": "2026-10-08T13:29:36.664Z",
+      "updatedAt": "2026-10-08T13:30:09.713Z",
+      "clientIp": "127.0.0.1",
+      "paidAt": "2026-10-08T13:30:09.713Z",
+      "gatewayTransactionId": "tap_sim_1791466209712",
+      "gatewayPaymentStatus": "CAPTURED",
+      "deliveredCode": "NFLX-UHD-6M-8812-SECURE",
+      "deliveredPin": "4491",
+      "deliveredInstructions": "الملف رقم [2] | رمز القفل PIN: 4491"
+    }
+  ],
+  "users": [
+    {
+      "id": "user-owner-1",
+      "email": "owner@vaultx.store",
+      "name": "المالك الأساسي (Primary Owner)",
+      "passwordHash": "11cddc7119f91aa6e50a4ee60f9f012ea742a4b0a307f63895d12475169faf67249dff16d03c775ca4afdec77c7474dddc939a054e94167c241556892606f657",
+      "salt": "ea898647df436e63396a7608ae8032bf",
+      "role": "owner",
+      "isActive": true,
+      "createdAt": "2026-10-08T13:28:52.339Z",
+      "failedLoginAttempts": 0,
+      "lastLoginAt": "2026-10-09T15:45:29.765Z"
+    },
+    {
+      "id": "user-admin-2",
+      "email": "admin@vaultx.store",
+      "name": "مدير العمليات (Co-Owner / Admin)",
+      "passwordHash": "7bbc73795e3bf5b332073bc896459a7026a5a8a8408ee7e9b44f773ccaf41fb0c40bd58f701c508f355d41fa126124c88d7034d77d2a4469224d3f90c722ffce",
+      "salt": "dc00aa607e80b66fddb63f904abdbd5c",
+      "role": "admin",
+      "isActive": true,
+      "createdAt": "2026-10-08T13:28:52.339Z",
+      "failedLoginAttempts": 0
+    }
+  ],
+  "auditLogs": [
+    {
+      "actorEmail": "owner@vaultx.store",
+      "action": "LOGIN_SUCCESS",
+      "category": "auth",
+      "details": "تم تسجيل الدخول بنجاح بصلاحية: OWNER",
+      "ipAddress": "127.0.0.1",
+      "id": "audit-1791560729766-bac772",
+      "timestamp": "2026-10-09T15:45:29.767Z"
+    },
+    {
+      "actorEmail": "owner@vaultx.store",
+      "action": "LOGIN_FAILED",
+      "category": "auth",
+      "details": "محاولة دخول فاشلة (1/5)",
+      "ipAddress": "127.0.0.1",
+      "id": "audit-1791560720232-137569",
+      "timestamp": "2026-10-09T15:45:20.232Z"
+    },
+    {
+      "actorEmail": "owner@vaultx.store",
+      "action": "SETTINGS_UPDATED",
+      "category": "settings",
+      "details": "تم تحديث إعدادات بوابة الدفع والبيانات العامة",
+      "ipAddress": "127.0.0.1",
+      "id": "audit-1791559797122-bd681f",
+      "timestamp": "2026-10-09T15:29:57.123Z"
+    },
+    {
+      "actorEmail": "owner@vaultx.store",
+      "action": "LOGIN_SUCCESS",
+      "category": "auth",
+      "details": "تم تسجيل الدخول بنجاح بصلاحية: OWNER",
+      "ipAddress": "127.0.0.1",
+      "id": "audit-1791559790868-8ce036",
+      "timestamp": "2026-10-09T15:29:50.868Z"
+    },
+    {
+      "actorEmail": "owner@vaultx.store",
+      "action": "LOGIN_SUCCESS",
+      "category": "auth",
+      "details": "تم تسجيل الدخول بنجاح بصلاحية: OWNER",
+      "ipAddress": "127.0.0.1",
+      "id": "audit-1791466262039-01b13e",
+      "timestamp": "2026-10-08T13:31:02.039Z"
+    },
+    {
+      "actorEmail": "owner@vaultx.store",
+      "action": "LOGIN_FAILED",
+      "category": "auth",
+      "details": "محاولة دخول فاشلة (1/5)",
+      "ipAddress": "127.0.0.1",
+      "id": "audit-1791466251126-61fa47",
+      "timestamp": "2026-10-08T13:30:51.126Z"
+    },
+    {
+      "actorEmail": "gateway-webhook",
+      "action": "PAYMENT_CAPTURED",
+      "category": "order",
+      "details": "تم تأكيد سداد الطلب VX-NET-718140 بنجاح بمبلغ 139 SAR. تم تسليم الكود تلقائياً.",
+      "ipAddress": "gateway",
+      "id": "audit-1791466209714-93e559",
+      "timestamp": "2026-10-08T13:30:09.714Z"
+    },
+    {
+      "id": "audit-init-1",
+      "timestamp": "2026-10-08T13:28:52.339Z",
+      "actorEmail": "system",
+      "action": "INITIALIZE_SYSTEM",
+      "category": "settings",
+      "details": "تم تهيئة النظام الأمني وقاعدة البيانات بنجاح مع تفعيل حسابي المالك والمدير.",
+      "ipAddress": "127.0.0.1"
+    }
+  ],
+  "settings": {
+    "storeName": "VAULT-X STORE",
+    "currency": "SAR",
+    "gatewayProvider": "tap",
+    "gatewayMode": "production",
+    "tapSecretKey": "sk_test_placeholder_vaultx",
+    "tapPublicKey": "pk_test_placeholder_vaultx",
+    "webhookSecret": "whsec_placeholder_vaultx_secure",
+    "merchantIban": "SA44800004820000192837465",
+    "merchantBankName": "مصرف الراجحي (Al Rajhi Bank)",
+    "merchantAccountHolder": "مؤسسة فولت إكس للتجارة الرقمية",
+    "twoFactorRequiredForOwner": true,
+    "merchantPayoutMethod": "mastercard",
+    "merchantCardNumber": "5241 •••• •••• 8820",
+    "merchantCardLast4": "8820",
+    "merchantCardHolder": "STORE OWNER",
+    "merchantCardExpiry": "12/28",
+    "merchantCardBank": "مصرف الراجحي (Mastercard World)",
+    "merchantCardBrand": "Mastercard",
+    "merchantAccountNumber": "4820000192837465",
+    "merchantSwift": "RJHISARI"
+  }
+}
